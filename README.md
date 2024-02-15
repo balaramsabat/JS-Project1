@@ -1,1 +1,3 @@
-# JS-Project1
+# JS-Project1- Color Switcher
+**by Balaram Sabat**
+
